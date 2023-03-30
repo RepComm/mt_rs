@@ -7,6 +7,7 @@ Just a note: I have no experience in rust, so this should be fun.
 
 ## State
 Basic triangle test code working, as well as LUA code execution
+![img](./example.png)
 
 ## Dependencies
 
