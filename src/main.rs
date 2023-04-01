@@ -83,7 +83,7 @@ fn app_setup(
 
 fn main() {
     App::new()
-        .add_plugins(DefaultPlugins)
-        .add_startup_system(app_setup)
-        .run();
+      .add_plugins(DefaultPlugins)
+      .add_startup_system(app_setup)
+      .run();
 }

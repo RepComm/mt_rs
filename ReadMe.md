@@ -1,4 +1,10 @@
 # mt_rs
+
+
+Cancelled until vscode and rust can play nicely together
+Intellisense is broken, and I'm not going to be learning fast enough without that. See you next year folks.
+
+
 Minetest clone project, written in rust
 
 This project tries to behave like minetest does, at least as far as the modding LUA API is concerned.
@@ -11,8 +17,8 @@ Basic triangle test code working, as well as LUA code execution
 
 ## Dependencies
 
-- bevy
-- luajit_rs
+- [bevy](https://github.com/bevyengine/bevy)
+- [luajit-rs](https://gitlab.com/Dreae/luajit-rs)
 
 - [bevy system dependencies](https://github.com/bevyengine/bevy/blob/main/docs/linux_dependencies.md)
 
